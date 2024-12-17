@@ -1,0 +1,37 @@
+[
+    {
+        "task": "Uzpildyt monthly expenses",
+        "completed": false
+    },
+    {
+        "task": "nueit i parduotuve",
+        "completed": false,
+        "weather": "Weather data unavailable"
+    },
+    {
+        "task": "nueit i akropoli",
+        "completed": true,
+        "weather": "Weather data unavailable"
+    },
+    {
+        "task": "Purchase dog food",
+        "completed": false,
+        "weather": "Partly cloudy, 4\u00b0C"
+    },
+    {
+        "task": "Nupirkt geliu",
+        "completed": false,
+        "weather": "Partly cloudy, 4\u00b0C"
+    },
+    {
+        "task": "Move table to another room.",
+        "completed": true,
+        "weather": "Light Rain Shower, 10\u00b0C"
+    },
+    {
+        "task": "Go to IKEA",
+        "completed": true,
+        "location": "Vilnius",
+        "weather": "Partly cloudy, 5\u00b0C"
+    }
+]
