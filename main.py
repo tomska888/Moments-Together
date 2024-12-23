@@ -38,9 +38,9 @@ def main_menu():
         elif choice == "4":
             mood_tracker_management(mood_tracker)
         elif choice == "5":
-            analytics.show_summary()
-        elif choice == "6":
             date_ideas_management(date_ideas)
+        elif choice == "6":
+            analytics.show_summary()
         elif choice == "7":
             print("Goodbye!")
             break
